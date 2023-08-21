@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Q {
+public class Hash_Map {
     public static void main(String[] args) {
         int arr[] =  {6,3,2,5,7,3,2,6,7,4,3,9,0 };
           int n =  arr.length;
